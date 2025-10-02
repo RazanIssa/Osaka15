@@ -10,3 +10,8 @@ body{
     color: var(--maincolor) ;
     font-weight: 700;
 }
+
+.projects .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+    color:var(--maincolor);
+    
+}
