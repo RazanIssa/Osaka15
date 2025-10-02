@@ -1,0 +1,12 @@
+:root{
+    --maincolor: #fc4d72;
+}
+
+body{
+    height: 5000px;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: var(--maincolor) ;
+    font-weight: 700;
+}
